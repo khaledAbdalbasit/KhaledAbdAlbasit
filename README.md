@@ -28,6 +28,7 @@
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=01005074554)
 
 <h2><img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width=45> Tech Stack</h2>
+
 ![HTML](https://img.shields.io/badge/-HTML-013?style=for-the-badge&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-013?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
 ![php](https://img.shields.io/badge/-php-05122A?style=flat&logo=php&logoColor=339933)&nbsp;
