@@ -15,7 +15,7 @@
 - 👨‍💻 As a computer engineering student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with PHP, laravel, and Mysql, or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at .... to see some of the projects I've worked on.
+- 👨‍💻 Check out my portfolio at &nbsp; <img src="https://media.giphy.com/media/JoWK4dUIsYK4Fv0E0D/giphy.gif" width="50"> &nbsp; to see some of the projects I've worked on.
 
 
  ### 🔗Contact Me
@@ -33,6 +33,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![MySql](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp;
+![cpp](https://custom-icon-badges.demolab.com/badge/C++-013.svg?style=for-the-badge&logo=cpp2&logoColor=white)&nbsp;
+![Notion](https://img.shields.io/badge/Notion-013.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
 
