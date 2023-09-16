@@ -10,7 +10,7 @@
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=700&pause=1000&color=2196F3&center=true&width=435&lines=Back-End+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
 </p> 
- <h2><img src="https://media.giphy.com/media/5WJ6SOKeNKrSzblU4R/giphy.gif" width=20></h2>
+ <h2></h2>
 
 
 
