@@ -32,7 +32,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=MongoDB)&nbsp;
 ![c++](https://img.shields.io/badge/-c++%20-05122A?style=flat&logo=python)&nbsp;
+
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
