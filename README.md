@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=backend%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=700&pause=1000&color=2196F3&center=true&width=435&lines=Front-End+Web+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
 
 
 - 🏢 I'm a Software Engineer working and traning in InomTechs company 
