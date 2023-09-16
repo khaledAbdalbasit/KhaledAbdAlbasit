@@ -8,7 +8,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=700&pause=1000&color=2196F3&center=true&width=435&lines=Back-End+Web+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=700&pause=1000&color=2196F3&center=true&width=435&lines=Back-End+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
 </p> 
  
 
