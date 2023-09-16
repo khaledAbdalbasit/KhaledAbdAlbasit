@@ -34,7 +34,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![MySql](https://img.shields.io/badge/-mysql-05122A?style=flat&logo=mysql)&nbsp;
 ![cpp](https://custom-icon-badges.demolab.com/badge/C++-013.svg?style=for-the-badge&logo=cpp2&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-013.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-011.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
 
