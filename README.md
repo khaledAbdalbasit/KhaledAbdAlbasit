@@ -7,14 +7,14 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=700&pause=1000&color=2196F3&center=true&width=435&lines=Back-End+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=700&pause=1000&color=2196F3&center=true&width=435&lines=Back-End+Developer;Building+Scalable+Solutions!" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🏢 I'm a **Backend Developer** currently working and training at **InomTechs**.
+- 🏢 I'm a **Backend Developer** currently working and training at **Techcell**.
 - 👨‍🎓 As a **Computer Engineering student**, I'm constantly learning and exploring new technologies.
 - 💡 I focus on building **robust RESTful APIs**, **multi-authentication systems**, and scalable backend solutions.
 - 🧰 Skilled in **PHP**, **Laravel**, **MySQL**, and modern Laravel tools like **Livewire**, **Filament**, and **Pusher**.
