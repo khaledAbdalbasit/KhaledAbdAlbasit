@@ -16,14 +16,11 @@ As a **Computer Engineering student**, I am committed to continuous learning and
 
 ## Tech Stack
 
-- PHP
-- Laravel
-- MySQL
-- HTML5, CSS3
-- Git & GitHub
-- Visual Studio Code
-- C++
-- Notion
+| Backend      | Tools & DB     | Frontend     |
+|:-------------|:---------------|:-------------|
+| PHP          | Git & GitHub   | HTML5        |
+| Laravel      | MySQL          | CSS3         |
+| C++          | VS Code        | Notion       |
 
 ## Contact
 
