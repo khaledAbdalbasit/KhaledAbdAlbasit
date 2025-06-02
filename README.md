@@ -1,17 +1,10 @@
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="220" height="220" style="border-radius: 50%;"/>
-
 <h3 align="center">
-  Welcome to Khaled Abd Albasit's Profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Kalam&weight=700&pause=1000&color=2196F3&center=true&width=435&lines=Back-End+Developer;Always+Learning+New+Things!" alt="Typing SVG" />
-</p>
+</h3>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 About Me <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="180" height="180" style="border-radius: 50%;"/>
 
 I am a dedicated **Back-End Developer** with a solid focus on **PHP** and the **Laravel framework**. I specialize in developing **robust RESTful APIs**, implementing **multi-authentication systems**, and designing **scalable, maintainable database structures**.
 
