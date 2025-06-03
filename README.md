@@ -30,7 +30,7 @@ As a **Computer Engineering student**, I am committed to continuous learning and
 
 ## 🛠️ Tech Stack
 
-<table>
+<table border="1" cellpadding="5">
   <tr>
     <th>Backend</th>
     <th>Tools & DB</th>
@@ -38,21 +38,31 @@ As a **Computer Engineering student**, I am committed to continuous learning and
   </tr>
   <tr>
     <td>PHP</td>
-     <td>Laravel</td>
-      <td>MySQL</td>
+    <td>Laravel</td>
+    <td>HTML5</td>
   </tr>
   <tr>
-    <td>HTML5</td>
+    <td>C++</td>
+    <td>MySQL</td>
     <td>CSS3</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>VS Code</td>
     <td>JS</td>
   </tr>
   <tr>
-    <td>C++</td>   
-    <td>VS Code</td>
-    <td>Git & GitHub</td>
+    <td></td>
+    <td>Git &amp; GitHub</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
     <td>Notion</td>
+    <td></td>
   </tr>
 </table>
+
 
 ---
 
