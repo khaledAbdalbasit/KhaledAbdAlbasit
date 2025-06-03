@@ -12,7 +12,7 @@
 
 I am a dedicated **Back-End Developer** with a solid focus on **PHP** and the **Laravel framework**. I specialize in developing **robust RESTful APIs**, implementing **multi-authentication systems**, and designing **scalable, maintainable database structures**.
 
-As a **Computer Engineering student**, I am committed to continuous learning and applying modern best practices such as **SOLID principles** and **MVC architecture** to deliver high-quality, efficient backend solutions.
+As a **Computer Engineering student**, I am committed to continuous learning and applying modern best practices such as **SOLID principles** and **Design patterns** to deliver high-quality, efficient backend solutions.
 
 ---
 
