@@ -33,33 +33,23 @@ As a **Computer Engineering student**, I am committed to continuous learning and
 <table border="1" cellpadding="5">
   <tr>
     <th>Backend</th>
-    <th>Tools & DB</th>
     <th>Frontend</th>
+    <th>Tools</th>
   </tr>
   <tr>
     <td>PHP</td>
-    <td>Laravel</td>
     <td>HTML5</td>
-  </tr>
-  <tr>
-    <td>C++</td>
-    <td>MySQL</td>
-    <td>CSS3</td>
-  </tr>
-  <tr>
-    <td></td>
     <td>VS Code</td>
-    <td>JS</td>
   </tr>
   <tr>
-    <td></td>
+    <td>Laravel</td>
+    <td>CSS3</td>
     <td>Git &amp; GitHub</td>
-    <td></td>
   </tr>
   <tr>
-    <td></td>
+    <td>MySQL</td>
+    <td>JS</td>
     <td>Notion</td>
-    <td></td>
   </tr>
 </table>
 
