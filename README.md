@@ -38,17 +38,18 @@ As a **Computer Engineering student**, I am committed to continuous learning and
   </tr>
   <tr>
     <td>PHP</td>
-    <td>Git & GitHub</td>
+     <td>Laravel</td>
+      <td>MySQL</td>
+  </tr>
+  <tr>
     <td>HTML5</td>
-  </tr>
-  <tr>
-    <td>Laravel</td>
-    <td>MySQL</td>
     <td>CSS3</td>
+    <td>JS</td>
   </tr>
   <tr>
-    <td>C++</td>
+    <td>C++</td>   
     <td>VS Code</td>
+    <td>Git & GitHub</td>
     <td>Notion</td>
   </tr>
 </table>
